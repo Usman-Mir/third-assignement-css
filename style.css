@@ -1,0 +1,26 @@
+
+body{
+    background-color:rgb(120, 129, 80)
+}
+#m1{
+    text-align: center;
+    color: rgb(41, 11, 68);
+    background-color: lightskyblue;
+    text-transform:uppercase;
+}
+#p1{
+    background-color:rgb(126, 223, 29);
+    text-decoration: underline;
+    text-align:right;
+    text-transform:capitalize;
+}
+#h3{
+    background-color:rgb(126, 223, 29) ;
+    text-align: right;
+    text-decoration: underline;
+    text-transform:capitalize;
+}
+#u1{
+    color: white;
+    text-decoration: line-through;
+}
